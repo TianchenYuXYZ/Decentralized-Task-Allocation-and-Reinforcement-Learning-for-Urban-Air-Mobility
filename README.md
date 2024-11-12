@@ -4,7 +4,7 @@ This repository contains the code and simulations for a project focused on optim
 
 # Project Demo
 
-[Watch the video](demo.mp4)
+[Watch the video](How_it_runs.mp4)
 
 ## Project Overview
 
