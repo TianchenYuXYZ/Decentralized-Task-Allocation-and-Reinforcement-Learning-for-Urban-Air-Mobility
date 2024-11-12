@@ -3,7 +3,9 @@
 This repository contains the code and simulations for a project focused on optimizing takeoff and landing operations in Urban Air Mobility (UAM) through decentralized task allocation and reinforcement learning techniques. The primary use case involves unmanned aerial vehicles (UAVs) like drone taxis, aimed at achieving efficient and autonomous operation in urban environments.
 
 # Project Demo
-
+<video src="media/demo.mp4" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>
 
 
 ## Project Overview
